@@ -40,7 +40,7 @@ app = Flask(__name__)
 #MODEL_PATH = 'models/crop_protection.h5'
 
 # Load your trained model
-model = load_model(r'C:\Users\DELL\Garbage1.h5')
+model = load_model(r'C:\Users\hplaptop\pavankalyan\Garbage1.h5')
        # Necessary
 # print('Model loaded. Start serving...')
 
